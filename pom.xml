@@ -28,7 +28,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.florin.tatar.triangle.type.TriangleTypeApplication</mainClass>
+                            <mainClass>com.florin.tatar.triangle.type.TriangleTypeTest</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
